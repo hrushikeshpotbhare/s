@@ -1,6 +1,6 @@
 {
   "settings": {
-    "name": "sawari",
+    "name": "Sawari Boutique",
     "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
@@ -28,14 +28,15 @@
     "versionFirst": "4.5.2",
     "uniqCompNum": 28,
     "versionPublish": "4.5.2",
-    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
+    "siteUrl": "https://sawarifashion.com",
     "sitemapSwitcherAuto": "on",
     "favicon": "",
     "noImageResize": "",
-    "cookiesAlert": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>.",
-    "google-analytics": ""
+    "cookiesAlert": "",
+    "google-analytics": "",
+    "sitemapSwitcher": "on"
   },
   "pages": {
     "index.html": {
