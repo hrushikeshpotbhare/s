@@ -12,20 +12,21 @@
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
         "dangerColor": "#f28281",
-        "titleFont": "Montserrat",
-        "subtitleFont": "Lora",
-        "textFont": "Raleway",
+        "titleFont": "Roboto",
+        "subtitleFont": "Roboto",
+        "textFont": "Roboto",
         "isRoundedButtons": true,
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": true,
         "isRtl": false
       },
       "additionalSetColors": [
-        "#e2129b"
+        "#e2129b",
+        "#323232"
       ]
     },
     "versionFirst": "4.5.2",
-    "uniqCompNum": 23,
+    "uniqCompNum": 28,
     "versionPublish": "4.5.2",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
@@ -110,7 +111,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\" target=\"_blank\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -322,14 +323,139 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "_name": "features7",
           "_anchor": "features7-k"
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": true,
+            "filter": true,
+            "images": [
+              {
+                "tags": "Saree",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4966-401x623.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4966-401x623-401x559.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5104-removebg-preview-1-412x606.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5104-removebg-preview-1-412x606-412x606.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-5111-removebg-preview-1-419x595.png",
+                "thumb": "@PROJECT_PATH@/assets/images/img-5111-removebg-preview-1-419x595-419x595.png",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/img-4950-420x594.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-4950-420x594-420x594.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Girls Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-skn7026-397x596.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/skn7026-397x596-397x596.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Girls Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-skn6988-377x566.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/skn6988-377x566-377x566.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Girls Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-skn6999-359x531.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/skn6999-359x531-359x531.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Girls Dresses",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/-skn7018-353x528.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/skn7018-353x528-353x528.jpg",
+                "alt": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-r"
+        },
+        {
+          "_params": {
+            "googleMap": {
+              "address": "aurangabad",
+              "placeId": "",
+              "state": "error",
+              "stateDetails": "Request denied"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "map1",
+          "_anchor": "map1-o"
         },
         {
           "_inherit": "contacts3",
@@ -355,6 +481,9 @@
             },
             "H4": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#e2129b"
             }
           },
           "_params": {
@@ -396,7 +525,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"https://sawari.store\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Store</a><br></li><li><a class=\"text-primary\" href=\"about.html\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\"><a href=\"https://sawari.store\" target=\"_blank\">Store</a></span></li><li><a class=\"text-primary\" href=\"about.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -419,15 +548,15 @@
           },
           "title1": "Menu",
           "text1": "\"Anyone can get dressed up and glamorous, but it is how people dress in their days off that are the most intriguing.\"",
-          "text2": "+91 9860840288",
+          "text2": "+91 98608 40288<br>+91 80555 99333",
           "text3": "Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001",
           "text4": "<a href=\"mailto:sawariboutique@gmail.com\">sawariboutique@gmail.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 9860840288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
+          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 98608 40288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
           "form": {
             "title": "MESSAGE",
             "action": "sawariboutique@gmail.com",
             "alerts": {
-              "success": "Thanks for filling out form!"
+              "success": "Thanks for contact us !"
             },
             "fields": {
               "name": {
@@ -468,7 +597,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#000000",
+            "bgColor": "#323232",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5,
@@ -484,6 +613,31 @@
           "text": "SHARE THIS PAGE!",
           "_name": "social-buttons3",
           "_anchor": "social-buttons3-8"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "<p><b>Copyright (c) 2021 Sawari boutique &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Developed by <a href=\"https://tantratechs.online\">Tantratechs</a></b></p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-q",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     },
@@ -557,7 +711,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\" target=\"_blank\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -675,7 +829,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "/addons/instagram-feed/instagram-feed-block/assets/instagram-background.jpg",
             "overlay": true,
             "overlayColor": "#000000",
             "overlayOpacity": 0.6
@@ -715,6 +869,9 @@
             },
             "H4": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#e2129b"
             }
           },
           "_params": {
@@ -756,7 +913,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"https://sawari.store\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Store</a><br></li><li><a class=\"text-primary\" href=\"about.html\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\"><a href=\"https://sawari.store\" target=\"_blank\">Store</a></span></li><li><a class=\"text-primary\" href=\"about.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -779,10 +936,10 @@
           },
           "title1": "Menu",
           "text1": "\"Anyone can get dressed up and glamorous, but it is how people dress in their days off that are the most intriguing.\"",
-          "text2": "+91 9860840288",
+          "text2": "+91 98608 40288<br>+91 80555 99333",
           "text3": "Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001",
           "text4": "<a href=\"mailto:sawariboutique@gmail.com\">sawariboutique@gmail.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 9860840288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
+          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 98608 40288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
           "form": {
             "title": "MESSAGE",
             "action": "tantratechs@gmail.com",
@@ -917,7 +1074,7 @@
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://sawari.store\" target=\"_blank\">Store</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html#msg-box8-f\">About us</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\">Contact us</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -1025,6 +1182,9 @@
             },
             "H4": {
               "color": "#000000"
+            },
+            "SPAN": {
+              "color": "#e2129b"
             }
           },
           "_params": {
@@ -1066,7 +1226,7 @@
               "family": "et-line"
             }
           },
-          "text5": "<li><a class=\"text-primary\" href=\"https://sawari.store\" style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\">Store</a><br></li><li><a class=\"text-primary\" href=\"about.html\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
+          "text5": "<li><span style=\"font-size: 0.875rem; background-color: rgb(239, 239, 239);\"><a href=\"https://sawari.store\" target=\"_blank\">Store</a></span></li><li><a class=\"text-primary\" href=\"about.html\" style=\"font-size: 0.875rem; background-color: rgb(193, 193, 193);\">About Us</a></li><li><a class=\"text-primary\" href=\"contact.html\">Contact Us</a></li>",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>",
           "_tags": [
             "Theme"
@@ -1089,10 +1249,10 @@
           },
           "title1": "Menu",
           "text1": "\"Anyone can get dressed up and glamorous, but it is how people dress in their days off that are the most intriguing.\"",
-          "text2": "+91 9860840288",
+          "text2": "+91 98608 40288<br>+91 80555 99333",
           "text3": "Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001",
           "text4": "<a href=\"mailto:sawariboutique@gmail.com\">sawariboutique@gmail.com</a>",
-          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 9860840288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
+          "text6": "<strong>Contacts</strong><br>Email: sawariboutique@gmail.com<br>Phone: +91 98608 40288<br><br><br><strong>Address</strong><br>Vivekanand College Rd, below ujjivan bank, near savarkar chuak, Samarth Nagar, Aurangabad, Maharashtra 431001<br>",
           "form": {
             "title": "MESSAGE",
             "action": "tantratechs@gmail.com",

@@ -1,7 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 
 
@@ -11,11 +9,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .btn,
 .alert,
@@ -39,7 +37,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -53,7 +51,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .btn {
   border-radius: 1.6em;
@@ -68,20 +66,23 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Roboto', sans-serif;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #e2129b !important;
@@ -521,9 +522,15 @@ h6,
 #contacts5-6 H4 {
   color: #000000;
 }
+#contacts5-6 SPAN {
+  color: #e2129b;
+}
 #social-buttons3-8 .mbr-section-title,
 #social-buttons3-8 .btn-social {
   color: #fff;
+}
+#footer1-q P {
+  text-align: left;
 }
 
 #menu-9 .hide-buttons .nav-btn {
@@ -629,6 +636,9 @@ h6,
 #contacts5-a H4 {
   color: #000000;
 }
+#contacts5-a SPAN {
+  color: #e2129b;
+}
 #social-buttons3-m .mbr-section-title,
 #social-buttons3-m .btn-social {
   color: #fff;
@@ -725,6 +735,9 @@ h6,
 }
 #contacts5-c H4 {
   color: #000000;
+}
+#contacts5-c SPAN {
+  color: #e2129b;
 }
 #social-buttons3-l .mbr-section-title,
 #social-buttons3-l .btn-social {
